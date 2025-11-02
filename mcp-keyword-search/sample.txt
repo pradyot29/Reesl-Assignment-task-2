@@ -1,0 +1,10 @@
+This is a sample file for search testing.
+Here is some text to demonstrate the keyword search functionality.
+More content here with various words.
+Testing keywords in different lines.
+Another line with the search keyword.
+The MCP server will find all instances.
+This helps demonstrate the search tool capabilities.
+Keywords can appear multiple times.
+Case sensitivity is an optional parameter.
+The tool returns line numbers with matching content.

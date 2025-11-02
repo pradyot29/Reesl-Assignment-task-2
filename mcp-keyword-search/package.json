@@ -1,0 +1,24 @@
+{
+  "name": "mcp-keyword-search",
+  "version": "1.0.0",
+  "description": "MCP server for searching keywords in files",
+  "main": "index.js",
+  "bin": {
+    "mcp-keyword-search": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "keyword-search",
+    "file-search"
+  ],
+  "author": "Pradyot",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.2"
+  }
+}
